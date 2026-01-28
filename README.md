@@ -3,7 +3,7 @@
 This repository contains structured notes, hands-on labs, assignments, and project work
 completed as part of the **IBM Data Analyst Professional Certificate** offered on Coursera.
 The program consists of **11 courses** designed to equip learners with the essential
-foundational and applied skills needed to start a career as a Data Analyst. :contentReference[oaicite:1]{index=1}
+foundational and applied skills needed to start a career as a Data Analyst. 
 
 ---
 
@@ -12,7 +12,7 @@ foundational and applied skills needed to start a career as a Data Analyst. :con
 The **IBM Data Analyst Professional Certificate** prepares you for an entry-level role
 in data analytics by teaching practical techniques and tools used by industry professionals.
 You will work with real-world datasets, perform data cleaning and transformation, build
-visualizations, and gain experience using Excel, Python, SQL, and BI tools. :contentReference[oaicite:2]{index=2}
+visualizations, and gain experience using Excel, Python, SQL, and BI tools.
 
 ---
 
@@ -35,7 +35,7 @@ visualizations, and gain experience using Excel, Python, SQL, and BI tools. :con
 > **Total Estimated Hours:** ~173
 
 These courses cover fundamental concepts of data analytics, practical software skills,
-and real-world analysis workflows. :contentReference[oaicite:3]{index=3}
+and real-world analysis workflows. 
 
 ---
 
@@ -50,7 +50,7 @@ Throughout this program, learners build and demonstrate hands-on skills in areas
 - SQL querying and relational databases  
 - Exploratory data analysis and storytelling  
 - Generative AI applications in analytics  
-- Job readiness and interview preparation :contentReference[oaicite:4]{index=4}
+- Job readiness and interview preparation 
 
 ---
 ## 🗂 Repository Structure
