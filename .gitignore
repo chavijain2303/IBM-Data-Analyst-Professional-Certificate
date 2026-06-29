@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# SQLite databases
+*.sqlite
+*.db
+
+# Large datasets
+cleaned_survey_data.csv
+survey_data_updated 5.csv
+
+# Large notebook
+Plotly Basics-Scatter, Line, Bar, Bubble, Histogram, Pie, Sunburst.ipynb
