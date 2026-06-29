@@ -1,127 +1,395 @@
+````markdown
 # Course 2: Excel Basics for Data Analysis
 
-This course is part of the **IBM Data Analyst Professional Certificate** and focuses on
-using **Microsoft Excel** as a core tool for data cleaning, wrangling, analysis, and
-reporting. It emphasizes hands-on practice through labs and a real-world final project.
+![Microsoft Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoftexcel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)
+![Data Cleaning](https://img.shields.io/badge/Data-Cleaning-success)
+![Pivot Tables](https://img.shields.io/badge/Pivot-Tables-orange)
+![IBM](https://img.shields.io/badge/IBM-Data%20Analyst%20Professional%20Certificate-blue)
 
 ---
 
-## 📘 Course Overview
+# Course 2: Excel Basics for Data Analysis
 
-The course builds a strong foundation in spreadsheet-based data analysis, covering
-everything from Excel fundamentals to advanced analysis techniques such as
-Pivot Tables, lookup functions, and conditional calculations. It also highlights
-best practices for data quality, privacy, and analyst-ready deliverables.
+## 📖 Overview
 
----
+This repository contains my notes, hands-on labs, assignments, and practice exercises completed as part of **Course 2 – Excel Basics for Data Analysis** from the **IBM Data Analyst Professional Certificate**.
 
-## 🧠 Key Concepts Covered
-
-### 🔹 Module 1: Introduction to Data Analysis Using Spreadsheets
-- Role of spreadsheets in data analytics
-- Common spreadsheet tools (Excel, Google Sheets, LibreOffice)
-- Spreadsheet terminology:
-  - Workbooks, worksheets, rows, columns, cells, ranges
-- Navigating Excel interface:
-  - Ribbon, Quick Access Toolbar, menus
-- Selecting, navigating, and managing data efficiently
-- Excel keyboard shortcuts for productivity
-- Getting started with Excel for real-world data analysis
+The course introduces Microsoft Excel as a powerful tool for data analysis. It covers spreadsheet fundamentals, data entry, formulas, functions, data cleaning, sorting, filtering, PivotTables, and analytical techniques that help transform raw data into meaningful business insights.
 
 ---
 
-### 🔹 Module 2: Getting Started with Using Excel Spreadsheets
-- Viewing and navigating large datasets:
-  - Zoom, Split View, Freeze Panes
-- Entering, editing, and organizing data
-- Copying, filling, and formatting data
-- Understanding formulas and operators
-- Introduction to functions
-- Referencing data in formulas:
-  - Relative references
-  - Absolute references
-  - Mixed references
-- Common formula errors and error handling
+# 🎯 Learning Objectives
+
+After completing this course, I can:
+
+- Navigate and work efficiently in Microsoft Excel.
+- Create and format professional spreadsheets.
+- Use formulas and built-in functions for calculations.
+- Clean and prepare datasets for analysis.
+- Sort and filter data efficiently.
+- Apply logical and lookup functions.
+- Build PivotTables for data summarization.
+- Analyze large datasets using Excel.
+- Create interactive reports using PivotTables, Slicers, and Timelines.
 
 ---
 
-### 🔹 Module 3: Cleaning & Wrangling Data Using Spreadsheets
-- Importance of data quality in analytics
-- Five traits of high-quality data:
-  - Accuracy, completeness, reliability, relevance, timeliness
-- Importing data from CSV and text files
-- Basics of data privacy and compliance (GDPR, CCPA, HIPAA, etc.)
-- Identifying and fixing data quality issues:
-  - Removing empty rows
-  - Handling duplicates
-  - Fixing spelling errors
-  - Correcting inconsistent text cases
-  - Date formatting issues
-  - Trimming whitespace
-- Data cleaning tools and techniques:
-  - Find & Replace
-  - Flash Fill
-  - Text to Columns
-  - TRIM, UPPER, LOWER, PROPER functions
+# 🛠️ Tools & Technologies
+
+### Spreadsheet Software
+
+- Microsoft Excel
+- Excel for Microsoft 365
+- Excel for the Web
+
+### Excel Features
+
+- Tables
+- Formulas
+- Functions
+- Conditional Formatting
+- Sorting & Filtering
+- PivotTables
+- Slicers
+- Timelines
 
 ---
 
-### 🔹 Module 4: Analyzing Data Using Spreadsheets
-- Core analysis techniques:
-  - Filtering and sorting data
-  - Multi-level sorting
-- Using tables for structured analysis
-- Essential Excel functions for analysis:
-  - IF, IFS
-  - COUNTIF, COUNTIFS
-  - SUMIF, SUMIFS
-- Lookup functions:
-  - VLOOKUP
-  - HLOOKUP
-  - XLOOKUP (modern alternative)
-- Pivot Tables and Pivot Charts:
-  - Preparing data for Pivot Tables
-  - Creating and customizing Pivot Tables
-  - Calculated fields
-  - Recommended Pivot Tables
-- Interactive analysis using:
-  - Slicers
-  - Timelines
-  - Combined filters for dynamic insights
+# 📂 Repository Structure
+
+```text
+Course 2 - Excel Basics for Data Analysis
+│
+├── Module 1
+│   ├── Introduction to Excel
+│   ├── Workbook Basics
+│   └── Spreadsheet Fundamentals
+│
+├── Module 2
+│   ├── Excel Functions
+│   ├── Formulas
+│   ├── Cell References
+│   └── Formatting
+│
+├── Module 3
+│   ├── Data Cleaning
+│   ├── Data Preparation
+│   ├── Find & Replace
+│   ├── Flash Fill
+│   └── Text Functions
+│
+├── Module 4
+│   ├── Data Analysis
+│   ├── PivotTables
+│   ├── Slicers
+│   ├── Timelines
+│   └── Final Assignment
+│
+├── Images
+├── README.md
+└── Course Notes.pdf
+```
 
 ---
 
-### 🔹 Module 5: Final Project
-- End-to-end Excel-based data analysis project
-- Cleaning and preparing raw data
-- Performing analysis using formulas, filters, and Pivot Tables
-- Generating insights aligned with business objectives
-- Submission via AI-graded or peer-graded evaluation
+# 📚 Course Modules
+
+## Module 1 – Introduction to Microsoft Excel
+
+### Topics Covered
+
+- Introduction to Microsoft Excel
+- Workbook & Worksheet Basics
+- Rows, Columns & Cells
+- Navigating Excel
+- Entering and Editing Data
+- Saving and Managing Workbooks
+- Cell Formatting
+- Number Formats
+- Keyboard Shortcuts
+- Excel Interface
+
+### Hands-on Labs
+
+- Creating Workbooks
+- Formatting Worksheets
+- Basic Spreadsheet Operations
 
 ---
 
-## 📂 Folder Structure
+## Module 2 – Working with Data in Excel
 
-- **Notes/** → Conceptual notes and Excel fundamentals
-- **Labs/** → Hands-on Excel practice datasets and exercises
-- **Final_Assignment/** → End-to-end data cleaning and analysis project
+### Topics Covered
+
+- Cell References
+- Relative & Absolute References
+- Basic Formulas
+- Arithmetic Operations
+- AutoFill
+- Named Ranges
+- Common Excel Functions
+- Formatting Data
+- Conditional Formatting
+
+### Common Functions
+
+- SUM()
+- AVERAGE()
+- MIN()
+- MAX()
+- COUNT()
+- COUNTA()
+
+### Hands-on Labs
+
+- Formula Practice
+- Function Practice
+- Worksheet Formatting
 
 ---
 
-## 🎯 Skills Developed
+## Module 3 – Cleaning & Preparing Data
 
-- Spreadsheet-based data analysis
-- Data cleaning and wrangling using Excel
-- Formula building and function usage
-- Lookup and conditional logic
-- Pivot Tables, slicers, and dashboards
-- Data quality and privacy awareness
-- Business-focused analytical thinking
+### Topics Covered
+
+#### Data Cleaning
+
+- Spell Checking
+- Removing Empty Rows
+- Removing Duplicate Data
+- Find & Replace
+- Correcting Inaccurate Data
+
+#### Text Cleaning
+
+- UPPER()
+- LOWER()
+- PROPER()
+- TRIM()
+- Flash Fill
+- Text to Columns
+- LEFT()
+- RIGHT()
+- LEN()
+- SEARCH()
+
+#### Date Formatting
+
+- Date Formats
+- Locale Settings
+- Custom Date Formats
+
+### Hands-on Lab
+
+- Cleaning Customer & Sales Data
+- Standardizing Text
+- Removing Duplicates
+- Preparing Data for Analysis
 
 ---
 
-## 📌 Outcome
+## Module 4 – Analyzing Data Using Excel
 
-This course establishes **Excel as a powerful analytics tool** and prepares learners
-to perform structured data analysis and reporting tasks commonly expected of
-entry-level Data Analysts.
+### Topics Covered
+
+#### Sorting & Filtering
+
+- Sorting Text
+- Sorting Numbers
+- Sorting Dates
+- Multi-Level Sorting
+- Custom Filters
+- Number Filters
+- Text Filters
+
+#### Excel Tables
+
+- Formatting Data as Tables
+- Dynamic Tables
+- Automatic Filtering
+- Structured References
+
+#### PivotTables
+
+- Creating PivotTables
+- PivotTable Fields
+- Rows, Columns, Values & Filters
+- Formatting PivotTables
+- Calculated Fields
+- Recommended PivotTables
+
+#### Interactive Analysis
+
+- Slicers
+- Timelines
+- Dashboard-style Filtering
+
+### Hands-on Labs
+
+- Filtering & Sorting Data
+- Creating PivotTables
+- Interactive Analysis using Slicers & Timelines
+
+---
+
+# 📊 Excel Functions Covered
+
+### Logical Functions
+
+- IF()
+- IFS()
+
+### Statistical Functions
+
+- COUNTIF()
+- COUNTIFS()
+- SUMIF()
+- SUMIFS()
+
+### Lookup Functions
+
+- VLOOKUP()
+- HLOOKUP()
+- XLOOKUP()
+
+### Text Functions
+
+- LEFT()
+- RIGHT()
+- LEN()
+- SEARCH()
+- TRIM()
+- UPPER()
+- LOWER()
+- PROPER()
+
+---
+
+# 📈 Data Analysis Workflow
+
+```text
+Import Data
+      │
+      ▼
+Data Cleaning
+      │
+      ▼
+Data Preparation
+      │
+      ▼
+Sorting & Filtering
+      │
+      ▼
+Apply Excel Functions
+      │
+      ▼
+Create Tables
+      │
+      ▼
+Build PivotTables
+      │
+      ▼
+Interactive Analysis
+      │
+      ▼
+Business Insights
+```
+
+---
+
+# 💻 Hands-on Labs
+
+Throughout this course, I completed practical exercises covering:
+
+- Excel Fundamentals
+- Spreadsheet Formatting
+- Formula Writing
+- Excel Functions
+- Data Cleaning
+- Removing Duplicates
+- Find & Replace
+- Flash Fill
+- Text to Columns
+- Sorting & Filtering
+- Excel Tables
+- PivotTables
+- Slicers
+- Timelines
+- Data Analysis
+- Final Assignment
+
+---
+
+# 🚀 Skills Acquired
+
+## Microsoft Excel
+
+- Workbook Management
+- Spreadsheet Formatting
+- Formula Development
+- Cell Referencing
+
+### Data Cleaning
+
+- Duplicate Removal
+- Missing Data Handling
+- Text Standardization
+- Date Formatting
+- Data Validation
+
+### Data Analysis
+
+- Sorting
+- Filtering
+- PivotTables
+- PivotTable Calculations
+- Interactive Analysis
+
+### Excel Functions
+
+- Logical Functions
+- Lookup Functions
+- Statistical Functions
+- Text Functions
+
+---
+
+# 🎓 Key Learning Outcomes
+
+After completing this course, I can:
+
+- Build and manage professional Excel workbooks.
+- Clean and prepare raw datasets for analysis.
+- Apply formulas and functions to solve analytical problems.
+- Analyze large datasets using PivotTables.
+- Create interactive reports using Slicers and Timelines.
+- Transform raw spreadsheet data into meaningful business insights.
+
+---
+
+# 📁 Final Assignment
+
+The course concludes with a comprehensive project involving:
+
+- Cleaning and preparing a real-world dataset.
+- Removing duplicates and inconsistencies.
+- Applying formulas and analytical functions.
+- Creating PivotTables for summarization.
+- Performing interactive analysis using Slicers and Timelines.
+- Extracting meaningful business insights.
+
+---
+
+# 🏆 Certificate Program
+
+This repository is part of the **IBM Data Analyst Professional Certificate** and documents my learning journey through Microsoft Excel, data cleaning, spreadsheet analysis, PivotTables, and business data analysis techniques.
+
+---
+
+## 👩‍💻 Author
+
+**Chavi Jain**
+
+*Aspiring Data Analyst | Microsoft Excel | Data Cleaning | Data Analysis | PivotTables | Business Intelligence*
+````
