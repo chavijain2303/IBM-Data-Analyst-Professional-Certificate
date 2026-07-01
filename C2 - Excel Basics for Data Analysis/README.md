@@ -1,4 +1,3 @@
-````markdown
 # Course 2: Excel Basics for Data Analysis
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoftexcel&logoColor=white)
@@ -392,4 +391,3 @@ This repository is part of the **IBM Data Analyst Professional Certificate** and
 **Chavi Jain**
 
 *Aspiring Data Analyst | Microsoft Excel | Data Cleaning | Data Analysis | PivotTables | Business Intelligence*
-````
