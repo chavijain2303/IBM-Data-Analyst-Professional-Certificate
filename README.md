@@ -24,7 +24,6 @@ Throughout this certification, I gained practical experience in data collection,
 - **Provider:** IBM
 - **Platform:** Coursera
 - **Level:** Beginner
-- **Duration:** Approximately **4 Months** (10 Hours/Week)
 - **Courses:** 11
 - **Projects:** 15+
 - **Hands-on Labs:** 100+
@@ -33,7 +32,7 @@ Throughout this certification, I gained practical experience in data collection,
 
 ---
 
-# 🎯 What You'll Learn
+# 🎯 Learnings
 
 Throughout this Professional Certificate, I learned to:
 
@@ -356,7 +355,7 @@ Upon completing this Professional Certificate, I am able to:
 If you found this repository helpful, feel free to ⭐ **star** the repository and connect with me!
 
 - **GitHub:** https://github.com/chavijain2303
-- **LinkedIn:** *(Add your LinkedIn profile here)*
+- **LinkedIn:** https://www.linkedin.com/in/chavijain2303
 
 ---
 
